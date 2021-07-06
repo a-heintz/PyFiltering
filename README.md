@@ -1,2 +1,2 @@
 # PyFiltering
-Filtering in Python
+Kalman and Particle Filtering in Python
