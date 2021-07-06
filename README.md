@@ -1,2 +1,2 @@
 # PyFiltering
-Kalman and Particle Filtering in Python
+Simple examples of Kalman and Particle Filtering in Python
